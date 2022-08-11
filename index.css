@@ -143,4 +143,144 @@ body{
   }
 /* Page Team Text Decoration */
   
+
+/* Khu dành cho contact site*/
   
+#contact{
+
+    width: 960px;
+    margin: 0px auto;
+    height: 600px;
+    color:  gray;
+
+}
+
+#contact #phone{
+
+    margin-top: 0px 0px;
+    height: 50%;
+    width: 50%; 
+
+}
+
+#contact #phone img{
+
+   height: auto;
+   width: 15%; 
+   float: left;
+   margin-top: 15%;
+
+}
+#contact #phone #phone-content{
+
+    font-size: 40px;
+    width: 600px;
+    padding-top: 17%;
+    margin-left: 20%
+
+}
+
+
+#contact #email{
+
+    margin-top: 0px 0px;
+    height: 50%;
+    width: 50%; 
+ 
+}
+
+#contact #email img{
+
+   height: auto;
+   width: 15%; 
+   float: left;
+   margin-top: 0%;
+
+}
+#contact #email #email-content{
+
+    font-size: 40px;
+    width: 600px;
+    padding-top: 3%;
+    margin-left: 20%
+
+}
+
+
+/* Khu dành cho contact site*/
+
+/* khu dành riêng cho about us site */ 
+
+#about_us{
+
+    width: 75%;
+    margin: 0% auto;
+
+}
+
+#about_us h1{
+
+    color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+/* khu dành riêng cho about us site */ 
+
+/* khu dành riêng cho news*/
+
+#news{
+
+    position: relative;
+    text-align: center;
+    color: black;
+    width: 960px;
+    margin: 0px auto;
+    margin-top: 1%;
+
+}
+
+#news #blog img{
+
+    border-radius: 3%;
+
+}
+
+#news #blog #blog_content{
+
+    position: absolute;
+    top: 30%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 90%;
+
+}
+
+#news #blog #blog_content h3 a{
+
+    text-decoration: none;
+    color: red;
+}
+
+#news #blog #blog_image{
+
+    width: 960px;
+    margin: 0% auto;
+    
+
+}
+
+#news #blog #blog_image img{
+
+    width:60%;
+    position: absolute;
+    height: auto;
+    bottom: 5%;
+    transform: translate(-50%, -50%);
+    margin-left: 3%;    
+
+}
+
+/* khu dành riêng cho news*/
