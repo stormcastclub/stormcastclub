@@ -106,7 +106,15 @@ body{
     width: 100%;
 
 }
-/* Page Team Text Decoration */
+/* Page  Team Text Decoration */
+
+.area a{
+    
+   text-decoration:none;
+   color:black;
+    
+}
+
 .area {
     text-align: center;
     font-size: 1.5em;
